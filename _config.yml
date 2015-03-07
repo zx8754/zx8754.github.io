@@ -27,7 +27,7 @@ footer-links:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: zx8754
-  stackoverflow: http://stackoverflow.com/users/680068/zx8754
+  stackoverflow: /users/680068/zx8754
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
