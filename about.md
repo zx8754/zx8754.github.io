@@ -4,10 +4,8 @@ title: About
 permalink: /about/
 ---
 
-> "If you torture the data long enough, it will confess." - Ronald Coase
+> "If you torture the data long enough, it will confess." - Ronald Coase   
 
 Analysis - Data - Analysis - Data - Volleyball
 
-### Contact me
-
-[zx8754](mailto:zx8754@gmail.com)
+[contact](mailto:zx8754@gmail.com)
