@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+> "If you torture the data long enough, it will confess." - Ronald Coase
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Analysis - Data - Analysis - Data - Volleyball
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[zx8754](mailto:zx8754@gmail.com)
