@@ -1,4 +1,4 @@
-# How much do I waste if lecturer is late?
+### How much do I waste if lecturer is late?
 
 Mustafa Kemal Atatürk was a Turkish army officer, revolutionary statesman, and founder of the Republic of Turkey as well as its first President. I first heard about him at Turkish Computer High School when the teacher told a brief story.
 
