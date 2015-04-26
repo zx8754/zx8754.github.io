@@ -1,3 +1,8 @@
+---
+layout: post
+title: Hang the project manager
+---
+
 During another slow dragging lecture I started to daydream but an example given by the lecturer got my attention back on track immediately. What is the connection between the length of rope used to hang people and project management? Well, the lecturer explained the use of regression in estimation of a project management process, but I am not going to dwell on the management side of the topic.
 
 Interesting is the fact that in past there was Mr Berry whose job was to calculate the length of the rope used to hang people. Before, I thought one would simply make a knot, put it round poor criminal’s neck and a freefall will result in an instant kill. If you did this without the knowledge of Mr Berry’s First and Second Hypothesis, there could only be two outcomes.
