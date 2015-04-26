@@ -3,7 +3,7 @@ layout: post
 title: After Databases exam
 ---
 
-It is such a relief...but still cannot put away the SQL queries from my head, need a holiday!
+It is such a relief... Still cannot put away the SQL queries from my head, need a holiday!
 
 ```sql
 SELECT vacation, location
