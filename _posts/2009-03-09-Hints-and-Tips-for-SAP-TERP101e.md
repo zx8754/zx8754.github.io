@@ -1,11 +1,13 @@
-Monday, 9 March 2009
+---
+layout: post
+title: Hints and Tips for SAP TERP10/1e
+---
 
-Hints and Tips for SAP TERP10/1e
 Here are some of the hints and tips for exam on SAP TERP10 or TERP1e from the lecturer who occasionally makes fun of SAP which makes the lecture worth attending. I will try to give you the essence of four pages of hints. I do not think the lecturer minds me sharing these as he didn’t wish to put his name on these hints. 
 
-Manuals: go through the manuals and remove any blank pages – there are a dozen if not 200 pages. E.g. remove section headings, take out blank exercise pages… if you have taken out these pages you will find that the manuals halve in size and are much less daunting.
+**Manuals**: go through the manuals and remove any blank pages – there are a dozen if not 200 pages. E.g. remove section headings, take out blank exercise pages… if you have taken out these pages you will find that the manuals halve in size and are much less daunting.
 
-Revision: the exam is entirely based on the textual materials in the manuals so you can forget about audio-visuals and online Flash based demonstrations. Also there are no questions on navigation.
+**Revision**: the exam is entirely based on the textual materials in the manuals so you can forget about audio-visuals and online Flash based demonstrations. Also there are no questions on navigation.
 
 There are two types of questions based either on factual recall or analysis which goes behind it. ERP Basics ask for one or more elements of SAP NetWeaver a.k.a The Fridge: the four elements are easier to remember with PIPA – people, information, process and application.
 
@@ -13,124 +15,78 @@ Other particularly interesting aspect of the exam it marks you for certain way o
 
 There are also questions that expect you to have positive approach towards SAP. Usually there are some questions on formatting and reporting in the system – usually where the manuals specifically go in detail about formatting.
 
-Marks: 80 questions in total that will be split into 300 answers. The exam is taken in exam conditions in a room but it is done online, you do not need to write anything. You can start answering in any order and change your answers as many times as you like. The exam is finished when you click on submit. The result will show immediately whether you passed/failed.
+**Marks**: 80 questions in total that will be split into 300 answers. The exam is taken in exam conditions in a room but it is done online, you do not need to write anything. You can start answering in any order and change your answers as many times as you like. The exam is finished when you click on submit. The result will show immediately whether you passed/failed.
 
 Answers have radio-button and you have to click true or false. There are no penalties for wrong answers so do not leave any unanswered questions. 300 marks is the maximum you get. If there are options to choose three out of four answers true or false, and you marked three of them true and last one as false, you score 4 points (3 for choosing right options and 1 for realising the wrong one.) But here is the thing if you marked all four true you get 3 points i.e. you won’t be penalised for choosing all 4 answers as true. - Update: this has changed, see comments.
 
 Another obvious remark is the bigger the section the more stuff to learn the more questions you will get in exam. 
 
-Topics: the big marks and the sophisticated questions are around the ‘big five’ – Sales and Distribution, HCM, Financial Accounting, Management Accounting and Enterprise Asset Management.
+**Topics**: the big marks and the sophisticated questions are around the ‘big five’ – Sales and Distribution, HCM, Financial Accounting, Management Accounting and Enterprise Asset Management.
 
 Hope this was helpful.
-at 23:23     
-Email This
-BlogThis!
-Share to Twitter
-Share to Facebook
-Share to Pinterest
 
+=====
 43 comments:
 
 Anonymous27 May 2009 at 17:07
 thanks this is a lot of help. i'm taking the exam in just a couple of days. have you taken the exam? if so, what preparation helps the most other than just reading the material over and over?
 
-ReplyDelete
-
 Anonymous30 June 2009 at 20:29
 But I guess Procurement Cycle is also a big one, right?
 
-ReplyDelete
-
 Anonymous24 October 2009 at 11:42
 Hi ,
-
 Any one tell me wher i can get the Terp10 study meterials .
-
 sukesh81@gmail.com
-
-ReplyDelete
 
 Anonymous19 December 2009 at 02:11
 u cant get the study materials unless you officially register through your partner university or directly through SAP (which is more expensive). There aren't any books specifically written for Terp10 so go through your University (if its part of the alliance programme) else pay the commercial cost (around £2350 or something like that in the UK)
 
-ReplyDelete
-
 Anonymous27 March 2010 at 03:44
 Even in Canada, this TERP10 cost $6500 from SAP. Universities offer these at a reasonable cost of 1600 exam and materials included
-
-ReplyDelete
 
 Anonymous25 May 2010 at 23:48
 The exam may have changed since you posted. 
 
 On your mark section you discussed how the exam is graded. however, on the SAP website it stated that: "Please note this certification may have a different passing score from previous or different certification exams. For multiple response items there is no partial credit given."
 
-
 http://www.sap.com/services/education/certificationtest.epx?context=%5b%5bC_TERP10_60%7c%5d%5d%7c
-
-ReplyDelete
 
 Anonymous27 May 2010 at 16:26
 Brunel university in the U.K offers TERP10 as part of a masters programme. The masters course is £6000 but you can do only the TERP10 which costs £500.
 
-ReplyDelete
-
 Tokhir Dadaev29 May 2010 at 10:31
 Same offer is available from the City University London.
 http://www.soi.city.ac.uk/pgcourses/sap/
-
-ReplyDelete
 
 Anonymous29 May 2010 at 19:09
 Are you sure you can do just the TERP10 AT Brunel university (without the masters programme)....and for £500?....
 
 I'm going to call them on Monday - but would be nice to have this information!..;)
 
-ReplyDelete
-
 Anonymous29 May 2010 at 19:11
 can you really do the Terp 10 COURSE AT city or Brunel WITHOUT doing the masters??...if so how much?
-
-ReplyDelete
 
 Tokhir Dadaev30 May 2010 at 14:42
 I think it is better if you give them a ring. At City University this course was offered as an extra course for masters degree students. I doubt you can do TERP10 course on its own.
 
-ReplyDelete
-
 Anonymous1 June 2010 at 13:54
 Tokhir,cheers mate - thanks for the input
-
-ReplyDelete
 
 Anonymous11 June 2010 at 01:44
 Its true. There are no partial credits given any more. If 3 answers are correct and you only get 2 of them right, then the whole question in wrong. Taking SAP at Central Michigan Unv.
 
-ReplyDelete
-
 Anonymous23 June 2010 at 03:48
-In a multiple choice question instead of 3 answers i choose 4 answers are correct. what will i get?
-
-I failed twice and now i have last and final chance. Dis July i have my exam, please help me.
-
-js6022@gmail.com
-
-ReplyDelete
+In a multiple choice question instead of 3 answers i choose 4 answers are correct. what will i get? I failed twice and now i have last and final chance. Dis July i have my exam, please help me. js6022@gmail.com
 
 Anonymous2 August 2010 at 08:26
 awesome thanks a lot ;) im at the course at this moment googlin' for help ;)
 exam will take place at the 9th August 2010
 
-ReplyDelete
+*Anonymous* 17 August 2010 at 16:52
+Hi, has anyone phoned to find out about TERP10 course on its own?
 
-Anonymous17 August 2010 at 16:52
-Hi 
-
-Has anyone phoned to find out about TERP10 course on its own?
-
-ReplyDelete
-
-Anonymous9 September 2010 at 02:27
+*Anonymous* 9 September 2010 at 02:27
 for you who did take the Terp on day 09 could send tips or even if you remember a few questions, I'll do mine and still not marked the date'm very insecure need much help. Must pass this test too otherwise I will be without employment in Brazil I am sorry that the English is not very good
 
 ReplyDelete
