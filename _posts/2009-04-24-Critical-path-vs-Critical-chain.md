@@ -1,3 +1,8 @@
+---
+layout: post
+title: Critical Path vs. Critical Chain
+---
+
 **Critical path** is the sequence of tasks from beginning to completion of the project where total duration of sequenced tasks is higher than any other path. It is worked out by using activity on arrow diagram. Every activity in a diagram starts and ends at an event. For every event the needs Earliest Event Time (EET) and Latest Event Time (LET) needs to be calculated.
 
 EET identifies the earliest date the activity can start but no sooner than the previous event is completed and LET identifies the latest start date without delaying the start of the next activity. 
