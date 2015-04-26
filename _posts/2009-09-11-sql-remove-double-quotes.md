@@ -7,6 +7,7 @@ We have a table with field values in double quotes, like: `“blabla”`.
 Those quotes need to be removed for every field value, desired result: `blabla`
 
 Solution:
+
 ```sql
 DECLARE @I INT
 DECLARE @MAX INT
