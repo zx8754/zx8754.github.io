@@ -16,3 +16,12 @@ This crazy looking solution was originally posted at [EXCELFOX](http://www.excel
 * Calculate Odds Ratio from Standard Error and Beta  
 `Odds Ratio =EXP(Beta)`  
 `P value =CHIDIST((Beta/Standard Error)^2,2)`
+
+* Date difference - DATEDIF - hidden function  
+
+> For some reason, Microsoft has decided not to document this function in any other versions. DATEDIF is treated as the drunk cousin of the Formula family. Excel knows it lives a happy and useful life, but will not speak of it in polite conversation. - [Chip Pearson](http://www.cpearson.com/excel/datedif.aspx)
+
+Date difference betweend two dates, e.g.: DOB and DOD.
+=DATEDIF(A2,B2,"y")
+Following also gives difference in years but with precision. Get difference in days - `d` and multiply with year fraction.
+=DATEDIF(A1,B2,"d")*0.00273790700698851
