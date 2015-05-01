@@ -23,8 +23,8 @@ This crazy looking solution was originally posted at [EXCELFOX](http://www.excel
 
 Date difference betweend two dates, e.g.: DOB and DOD.
 
-`=DATEDIF(A2,B2,"y")`
+`=DATEDIF(A1,B1,"y")`
 
 Following also gives difference in years but with precision. Get difference in days - `d` and multiply with year fraction.
 
-`=DATEDIF(A1,B2,"d")*0.00273790700698851`
+`=DATEDIF(A1,B1,"d")*0.00273790700698851`
