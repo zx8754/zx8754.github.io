@@ -3,7 +3,7 @@ layout: post
 title: R print for loop process
 ---
 
-Sometime we need to see how far is our code within the for loop in R. `print()` wouldn't work within for loop, unless we flush it out explicitly.
+Sometimes we need to see how far is our code within the for loop in R. `print()` wouldn't work within for loop, unless we flush it out explicitly.
 
 ```r
 for(i in 1:100){
