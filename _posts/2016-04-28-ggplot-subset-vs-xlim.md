@@ -3,10 +3,10 @@ layout: post
 title: ggplot subset vs xlim
 ---
 
-Testing if internal subset of ggplot is faster than manual subset.
-1. plot with xlim 0.25:0.5 with data range of 0:1
-2. subset data within ggplot() for range of 0.25:0.5 then plot
-3. subset data for range of 0.25:0.5 then plot
+Testing if internal subset of ggplot is faster than manual subset.   
+1. plot with xlim 0.25:0.5 with data range of 0:1   
+2. subset data within ggplot() for range of 0.25:0.5 then plot   
+3. subset data for range of 0.25:0.5 then plot   
 
 Which one is more efficient? From the test below it seems ggplot's internal subset is just as good as pre-subsetting the data.
 
