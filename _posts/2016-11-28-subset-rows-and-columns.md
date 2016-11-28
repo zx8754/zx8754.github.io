@@ -56,3 +56,6 @@ cut -f`cat $fileCols` $fileInput | sed '1d' | awk -v s=`cat $fileRows` 'BEGIN{sp
 3       3       3
 7       7       7
 ```
+
+**Edit:**   
+Relevant [SO post with a better AWK solution](http://stackoverflow.com/questions/40842008/subset-a-file-by-row-and-column-numbers)
