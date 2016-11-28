@@ -5,8 +5,8 @@ title: Subset rows and columns
 
 We want to subset a text file on rows and columns, where rows and columns numbers are read from a file. Excluding header (row 1) and rownmaes (col 1).
 
-**inputFile.txt**
-```
+**inputFile.txt**   
+```sh
 header	62	9	3	54	6	1
 25	2	3	4	5	6	7
 96	1	1	1	1	0	1
@@ -22,19 +22,18 @@ header	62	9	3	54	6	1
 57	1	1	1	1	1	1
 ```
 
-**subsetCols.txt**
-```
+**subsetCols.txt**   
+```sh
 2,3,5
 ```
 
-**subsetRows.txt**
-```
+**subsetRows.txt**   
+```sh
 1,3,7
 ```
 
-Solution using cut and awk loop
-
-```
+Solution using cut and awk loop   
+```sh
 # define vars
 fileInput=inputFile.txt
 fileRows=subsetRows.txt
@@ -45,8 +44,8 @@ fileOutput=result.txt
 cut -f`cat $fileCols` $fileInput | sed '1d' | awk -v s=`cat $fileRows` 'BEGIN{split(s, a, ","); for (i in a) b[a[i]]} NR in b' > $fileOutput
 ```
 
-**Output file: result.txt**
-```
+**Output file: result.txt**   
+```sh
 2       3       5
 3       3       3
 7       7       7
