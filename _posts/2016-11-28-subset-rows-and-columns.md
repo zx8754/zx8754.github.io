@@ -7,7 +7,7 @@ We want to subset a text file on rows and columns, where rows and columns number
 
 **inputFile.txt**      
 
-```
+```r
 header	62	9	3	54	6	1
 25	2	3	4	5	6	7
 96	1	1	1	1	0	1
@@ -26,13 +26,13 @@ header	62	9	3	54	6	1
 
 **subsetCols.txt**     
 
-```
+```r
 2,3,5
 ```
 
 **subsetRows.txt**     
 
-```
+```r
 1,3,7
 ```
 
@@ -51,7 +51,7 @@ cut -f`cat $fileCols` $fileInput | sed '1d' | awk -v s=`cat $fileRows` 'BEGIN{sp
 
 **Output file: result.txt**     
 
-```
+```r
 2       3       5
 3       3       3
 7       7       7
