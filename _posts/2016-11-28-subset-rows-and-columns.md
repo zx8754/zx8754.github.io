@@ -5,7 +5,7 @@ title: Subset rows and columns
 
 We want to subset a text file on rows and columns, where rows and columns numbers are read from a file. Excluding header (row 1) and rownmaes (col 1).
 
-**inputFile.txt**   
+**inputFile.txt**      
 
 ```
 header	62	9	3	54	6	1
