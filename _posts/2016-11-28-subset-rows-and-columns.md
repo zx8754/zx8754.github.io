@@ -21,21 +21,22 @@ header	62	9	3	54	6	1
 18	0	1	0	0	1	0
 53	0	0	1	0	0	0
 57	1	1	1	1	1	1
+
 ```
 
-**subsetCols.txt**   
+**subsetCols.txt**     
 
 ```
 2,3,5
 ```
 
-**subsetRows.txt**   
+**subsetRows.txt**     
 
 ```
 1,3,7
 ```
 
-Solution using cut and awk loop   
+Solution using cut and awk loop     
 
 ```
 # define vars
@@ -48,7 +49,7 @@ fileOutput=result.txt
 cut -f`cat $fileCols` $fileInput | sed '1d' | awk -v s=`cat $fileRows` 'BEGIN{split(s, a, ","); for (i in a) b[a[i]]} NR in b' > $fileOutput
 ```
 
-**Output file: result.txt**   
+**Output file: result.txt**     
 
 ```
 2       3       5
