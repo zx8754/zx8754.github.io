@@ -1,0 +1,29 @@
+---
+title: "Tokhir Dadaev"
+image: "picture.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/tokhirdadaev/"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=W5LjGBcAAAAJ&hl=en"
+  - label: ORCID
+    url: "https://orcid.org/0000-0002-8268-0438"
+  - label: BlueSky
+    url: "https://bsky.app/profile/zx8754.bsky.social"
+  - label: GitHub
+    url: "https://github.com/zx8754"
+  - label: Email
+    url: "mailto:zx8754@gmail.com"
+
+output:
+  postcards::jolla
+---
+Senior Analytical Scientist - doing data things that matter.   
+Currently working to help beat prostate cancer with the brilliant folks at @[The ICR London](https://www.icr.ac.uk/research-and-discoveries/icr-divisions/genetics-and-epidemiology/oncogenetics)
+
+🧬 Data science, bioinformatics, reproducible pipelines.   
+🧰 R, bash, HPC - daily tools of the trade.   
+🧠 R Tag Moderator on @[Stack Overflow](https://stackoverflow.com/users/680068/zx8754)   
+🧬 Community Moderator on @[Biostars](https://www.biostars.org/u/3919/)    
+
+---
